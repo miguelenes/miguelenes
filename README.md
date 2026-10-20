@@ -1,4 +1,4 @@
-![Abstract navy, silver and teal geometric banner](assets/banner.png)
+![Abstract navy, silver and teal geometric banner](https://raw.githubusercontent.com/miguelenes/miguelenes/main/assets/banner.png)
 
 # Miguel Enes
 
