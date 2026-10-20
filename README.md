@@ -1,4 +1,4 @@
-![Abstract navy, silver and teal geometric banner](assets/miguel-banner.png)
+![Abstract navy, silver and teal geometric banner](assets/banner.png)
 
 # Miguel Enes
 
